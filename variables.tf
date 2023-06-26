@@ -24,5 +24,5 @@ variable "subnet_id_1" {
  
  variable "subnet_id_2" {
   type = string
-  default = "subnet-087b25c214146858b"
+  default = "subnet-098d9d6b041f404bb"
  }
